@@ -26,7 +26,6 @@ for _ in range(T):
     if word == word[::-1]:
         print(ans)
         continue
-    ans = 2
     start, end = 0, len(word)-1
     ans = func(start, end, 0)
     print(ans)
