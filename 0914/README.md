@@ -1,7 +1,7 @@
-# 0913 문제
+# 0914 문제
 
 ```
-2585 경비행기 🛩
+17178 줄서기
 ```
 
-https://www.acmicpc.net/problem/2585
+https://www.acmicpc.net/problem/17178
